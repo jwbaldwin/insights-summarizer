@@ -1,4 +1,4 @@
-This repository contains code for the ACL 2017 paper *[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)*. 
+*This code is from the forked repo that updates TF version support to 1.5 and python to Python 3.* This repository contains code for the ACL 2017 paper *[Get To The Point: Summarization with Pointer-Generator Networks](https://arxiv.org/abs/1704.04368)*. 
 
 It is a version upgraded to run on TF 1.5 and to correct some bug when testing with new dataset. TF1.5' support on tf.tags has changed between TF1.2 and 1.5 so I changed the
 code a bit to match new requirements
